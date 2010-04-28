@@ -44,6 +44,8 @@ class ParseUserAgent
         else
           @browser_version_major = parts[1].slice(0,1)
         end
+
+        break if @browser == "Chrome"
       end
     end
     

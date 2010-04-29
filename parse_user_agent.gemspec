@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name     = "parse_user_agent"
-  s.version  = "0.1.1"
-  s.date     = "2008-12-20"
+  s.version  = "0.1.2"
+  s.date     = "2010-04-28"
   s.summary  = "UserAgent parser for Ruby."
   s.email    = "jackson@tekzen.net"
   s.homepage = "http://github.com/jaxn/parse_user_agent"
